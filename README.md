@@ -1,3 +1,4 @@
 # Attention_Dense_Capsule_Network
-Attention Dense Capsule Network 是一个结合了自注意力机制（Self-Attention）、稠密块（Dense Block）和动态胶囊网络（Dynamic Capsule Network）的深度学习模型，专注于改进图像分类任务的性能。该项目包含了预处理、模型定义、训练和评估的完整代码流程。
-欢迎贡献代码！如果有任何改进建议，请提交Pull Request或创建Issue。
+Attention Dense Capsule Network is a deep learning model that combines Self-Attention mechanisms, Dense Blocks, and Dynamic Capsule Networks, focusing on improving the performance of image classification tasks. This project includes the complete workflow for preprocessing, model definition, training, and evaluation.
+### Item Contribution
+Contributions are welcome! If you have any suggestions for improvement, please submit a Pull Request or create an Issue.
